@@ -16,8 +16,8 @@ connectCloudinary()
 
 // allowed origins
 const allowedOrigins = [
-  'http://localhost:5173',
-  'http://localhost:5174'
+  'https://dealzaro.vercel.app',
+  'https://dealzaro-admin.vercel.app'
 ];
 
 // middlewares
